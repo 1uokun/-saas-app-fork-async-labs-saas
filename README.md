@@ -8,14 +8,14 @@ Build your own SaaS product with SaaS boilerplate app. Stack: React, Material-UI
 
 
 ## 学习计划
-- [React](#React)
-- [MobX](#MobX)
-- [TypeScript](#hire-our-team)
-- [Next](#run-locally)
-- [Express](#deploy)
-- [Node](#built-with)
-- [Mongoose](#screenshots)
-- [MongoDB](#showcase)
+- [x] [React](#React)
+- [x] [MobX](#MobX)
+- [ ] [TypeScript](#hire-our-team)
+- [ ] [Next](#run-locally)
+- [x] [Express](#deploy)
+- [ ] [Node](#built-with)
+- [ ] [Mongoose](#screenshots)
+- [ ] [MongoDB](#showcase)
 
 ## 在本地运行
 要在本地运行，您需要运行两个应用程序： `api` 和 `app`.
