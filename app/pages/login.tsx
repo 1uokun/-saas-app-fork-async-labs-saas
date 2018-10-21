@@ -19,10 +19,23 @@ class Login extends React.Component<{ next?: string }> {
         <p style={{ margin: '45px auto', fontSize: '44px', fontWeight: 400 }}>Log in</p>
         <p>You’ll be logged in for 14 days unless you log out manually.</p>
         <br />
+          <form onSubmit={this.onSubmit}>
+              <button type="submit">login</button>
+          </form>
 
       </div>
     );
   }
+
+    public onSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        fetch('http://localhost:8000/api/v1/login/get-user',{method:'GET'})
+            .then(res=>{
+                res.json().then(function(data){
+                    console.log(data);
+                });
+            })
+    }
 }
 
 export default Login
