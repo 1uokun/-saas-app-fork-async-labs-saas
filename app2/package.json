@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "next": "next",
     "dev": "nodemon server/app.ts",
     "build": "next build && tsc --project tsconfig.server.json",
     "start": "NODE_ENV=production node production-server/server/app.js",
@@ -24,7 +23,6 @@
     "@zeit/next-typescript": "^1.1.1",
     "downshift": "^3.1.0",
     "express": "^4.16.4",
-    "glamor": "^2.20.40",
     "he": "^1.2.0",
     "helmet": "^3.14.0",
     "htmlescape": "^1.1.1",
