@@ -2,111 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faf46ee1-139a-489b-9e23-74912339323a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/api/.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/server/api/login.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/nodemon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/server/api/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/server/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/server/logs.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api的副本/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/api/getRootUrl.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app的副本/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app的副本/lib/api/makeQueryString.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app的副本/lib/api/sendRequestAndGetResponse.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/api/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/server/api/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/api/public.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/api/public.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/api/team-leader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/api/team-leader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/api/team-member.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/api/team-member.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/server/api/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/server/api/login.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/server/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/server/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/aws-s3.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/aws-s3.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/aws-ses.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/aws-ses.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/google.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/google.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/mailchimp.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/mailchimp.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/Discussion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/Discussion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/EmailTemplate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/EmailTemplate.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/Invitation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/Invitation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/Post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/Post.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/Purchase.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/Purchase.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/Team.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/Team.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/models/User.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/stripe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/stripe.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server/utils/slugify.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/server/utils/slugify.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/test/server/utils/slugify.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/test/server/utils/slugify.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/_app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/pages/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/api的副本/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/ActiveLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/ActiveLink.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/AutoComplete.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/AutoComplete.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/AvatarwithMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/AvatarwithMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/Confirm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/Confirm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/Loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/Loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/LoginButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/LoginButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/MenuWithLinks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/MenuWithLinks.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/MenuWithMenuItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/MenuWithMenuItems.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/Notifier.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/Notifier.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/common/SettingList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/common/SettingList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/discussions/CreateDiscussionForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/discussions/CreateDiscussionForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/discussions/DiscussionActionMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/discussions/DiscussionActionMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/discussions/DiscussionList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/discussions/DiscussionList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/discussions/DiscussionListItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/discussions/DiscussionListItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/discussions/EditDiscussionForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/discussions/EditDiscussionForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/posts/PostContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/posts/PostContent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/posts/PostDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/posts/PostDetail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/posts/PostEditor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/posts/PostEditor.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/posts/PostForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/posts/PostForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/teams/InviteMember.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/teams/InviteMember.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/components/users/MemberChooser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/components/users/MemberChooser.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/getRootUrl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/api/getRootUrl.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/makeQueryString.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/api/makeQueryString.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/public.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/api/public.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/sendRequestAndGetResponse.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/api/sendRequestAndGetResponse.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/team-leader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/api/team-leader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/api/team-member.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/api/team-member.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/confirm.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/confirm.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/context.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/context.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/env.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/env.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/gtag.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/gtag.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/notifier.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/notifier.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/resizeImage.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/resizeImage.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/sharedStyles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/sharedStyles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/discussion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/discussion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/invitation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/invitation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/post.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/team.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/team.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/store/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/store/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/withAuth.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/withAuth.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/withLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/withLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/lib/withStore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/lib/withStore.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/nodemon.json" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/nodemon.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/create-team.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/create-team.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/discussion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/discussion.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/invitation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/invitation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/settings/team-billing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/settings/team-billing.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/settings/team-members.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/settings/team-members.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/settings/team-profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/settings/team-profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/pages/settings/your-profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/pages/settings/your-profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/server/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/server/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/server/routesWithSlug.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/server/routesWithSlug.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/static/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/static/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/tsconfig.server.json" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/tsconfig.server.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app的副本/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/app.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,35 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logs.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/server/logs.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/server/api/login.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tslint.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/tslint.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,7 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>MONGO_URL</find>
       <find>mongoose</find>
       <find>sessionOptions</find>
       <find>appPort</find>
@@ -186,6 +59,7 @@
       <find>submit</find>
       <find>publish</find>
       <find>onSubmit</find>
+      <find>husky</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -222,20 +96,21 @@
         <option value="$PROJECT_DIR$/app/pages/index.tsx" />
         <option value="$PROJECT_DIR$/app/pages/_app" />
         <option value="$PROJECT_DIR$/app/pages/_document.tsx" />
-        <option value="$PROJECT_DIR$/app/pages/_app.tsx" />
         <option value="$PROJECT_DIR$/app/pages/_error.tsx" />
         <option value="$PROJECT_DIR$/app/package.json" />
         <option value="$PROJECT_DIR$/app/.dev" />
         <option value="$PROJECT_DIR$/app/lib/env.ts" />
-        <option value="$PROJECT_DIR$/app/server/app.ts" />
         <option value="$PROJECT_DIR$/api/server/api/login.js" />
         <option value="$PROJECT_DIR$/api/server/api/index.ts" />
-        <option value="$PROJECT_DIR$/api/server/app.ts" />
         <option value="$PROJECT_DIR$/app的副本/lib/api/getRootUrl.ts" />
         <option value="$PROJECT_DIR$/app/lib/api/getRootUrl.ts" />
-        <option value="$PROJECT_DIR$/app/pages/login.tsx" />
-        <option value="$PROJECT_DIR$/api/server/api/login.ts" />
         <option value="$PROJECT_DIR$/api/tslint.json" />
+        <option value="$PROJECT_DIR$/api/server/api/login.ts" />
+        <option value="$PROJECT_DIR$/api/server/app.ts" />
+        <option value="$PROJECT_DIR$/app/server/app.ts" />
+        <option value="$PROJECT_DIR$/app/pages/login.tsx" />
+        <option value="$PROJECT_DIR$/app/pages/_app.tsx" />
+        <option value="$PROJECT_DIR$/api/package.json" />
       </list>
     </option>
   </component>
@@ -277,11 +152,6 @@
             <path>
               <item name="saas-app-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="saas-app-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="saas-app-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="saas-app-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,16 +252,15 @@
       <workItem from="1539930116402" duration="607000" />
       <workItem from="1540097089316" duration="2123000" />
       <workItem from="1540100441853" duration="12301000" />
-      <workItem from="1540113575064" duration="57000" />
+      <workItem from="1540113575064" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21265000" />
+    <option name="totallyTimeSpent" value="21852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="192" y="56" width="1455" height="937" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -403,7 +272,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297619" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5535714" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4547619" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info id="Designer" order="2" />
@@ -446,21 +315,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/test/server/utils/slugify.test.js" />
-    <entry file="file://$PROJECT_DIR$/api/server/utils/slugify.ts" />
     <entry file="file://$PROJECT_DIR$/api/server/mailchimp.ts" />
     <entry file="file://$PROJECT_DIR$/api/server/stripe.ts" />
     <entry file="file://$PROJECT_DIR$/api/nodemon.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -478,13 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -554,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/server/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="57" column="34" lean-forward="true" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app的副本/lib/api/sendRequestAndGetResponse.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -579,13 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/lib/api/getRootUrl.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -722,27 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/login.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/server/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <element signature="e#321#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -753,24 +571,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/server/logs.ts">
+    <entry file="file://$PROJECT_DIR$/app/lib/api/getRootUrl.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/server/api/login.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/server/api/login.ts">
+    <entry file="file://$PROJECT_DIR$/api/server/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="-157">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#321#350#0" expanded="true" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/_app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/login.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/server/logs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

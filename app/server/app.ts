@@ -53,7 +53,7 @@ app.prepare().then(() => {
         // nextfn();
     // });
 
-    //检测是否已登陆和账号类型
+    // 检测是否已登陆和账号类型
     server.get('/', async (req: any, res) => {
         let redirectUrl = 'login';
 
@@ -65,7 +65,7 @@ app.prepare().then(() => {
             }
         }
 
-        //301重定向
+        // 301重定向
         res.redirect(`${ROOT_URL}/${redirectUrl}`);
     });
 

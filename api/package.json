@@ -14,11 +14,6 @@
     "processes-node": "ps -e|grep node",
     "kill-processes-at-port": "lsof -i tcp:8000 | awk 'NR!=1 {print $2}' | xargs kill"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint && yarn build && cd ../app && yarn lint"
-    }
-  },
   "jest": {
     "coverageDirectory": "./.coverage"
   },

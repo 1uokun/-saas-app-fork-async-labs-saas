@@ -8,5 +8,4 @@ const router = express.Router();
 //     res.json({ user: 'Niko' || req.user });
 // });
 
-
 export default router;

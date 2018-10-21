@@ -34,16 +34,16 @@ export default class MyApp extends App {
 }
 
 class Layout extends React.Component {
-    render () {
+    public render() {
         const {children} = this.props;
-        return <div className='layout'>
+        return (<div className='layout'>
             <ul>
                 <li>home</li>
                 <li>login</li>
                 <li>register</li>
             </ul>
             {children}
-        </div>
+        </div>)
     }
 }
 

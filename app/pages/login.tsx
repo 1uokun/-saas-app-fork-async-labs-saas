@@ -29,13 +29,13 @@ class Login extends React.Component<{ next?: string }> {
 
     public onSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault();
-        fetch('http://localhost:8000/api/v1/login/get-user',{method:'GET'})
-            .then(res=>{
-                res.json().then(function(data){
+        fetch('http://localhost:8000/api/v1/login/get-user',{ method:'GET' })
+            .then( res => {
+                res.json().then( function(data){
                     console.log(data);
                 });
-            })
-    }
+            });
+    };
 }
 
-export default Login
+export default Login;

@@ -39,7 +39,6 @@ server.use(cors({ origin, credentials: true }));
 server.use(helmet());
 server.use(compression());
 
-
 server.use(express.json());
 
 // const MongoStore = mongoSessionStore(session);
