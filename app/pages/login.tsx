@@ -1,12 +1,7 @@
-import { observer } from 'mobx-react';
 import Head from 'next/head';
 import React from 'react';
 
-import LoginButton from '../components/common/LoginButton';
-import withAuth from '../lib/withAuth';
-import withLayout from '../lib/withLayout';
-
-class Login extends React.Component<{ next?: string; firstGridItem: boolean }> {
+class Login extends React.Component<{ next?: string }> {
   public static getInitialProps({ query }) {
     const { next } = query;
 
@@ -25,10 +20,9 @@ class Login extends React.Component<{ next?: string; firstGridItem: boolean }> {
         <p>You’ll be logged in for 14 days unless you log out manually.</p>
         <br />
 
-        <LoginButton next={this.props.next} />
       </div>
     );
   }
 }
 
-export default withAuth(withLayout(observer(Login)), { logoutRequired: true });
+export default Login

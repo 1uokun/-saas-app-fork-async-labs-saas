@@ -2,79 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faf46ee1-139a-489b-9e23-74912339323a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/pages/_app.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/pages/_error.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/nodemon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/pages/_document.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/pages/login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/tsconfig.server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/env.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/routesWithSlug.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/ActiveLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/ActiveLink.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/AutoComplete.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/AutoComplete.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/AvatarwithMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/AvatarwithMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/Confirm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/Confirm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/Loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/Loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/LoginButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/LoginButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/MenuWithLinks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/MenuWithLinks.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/MenuWithMenuItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/MenuWithMenuItems.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/Notifier.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/Notifier.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/common/SettingList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/common/SettingList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/discussions/CreateDiscussionForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/discussions/CreateDiscussionForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/discussions/DiscussionActionMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/discussions/DiscussionActionMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/discussions/DiscussionList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/discussions/DiscussionList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/discussions/DiscussionListItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/discussions/DiscussionListItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/discussions/EditDiscussionForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/discussions/EditDiscussionForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/posts/PostContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/posts/PostContent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/posts/PostDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/posts/PostDetail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/posts/PostEditor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/posts/PostEditor.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/posts/PostForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/posts/PostForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/teams/InviteMember.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/teams/InviteMember.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/users/MemberChooser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/components/users/MemberChooser.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/getRootUrl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/getRootUrl.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/makeQueryString.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/makeQueryString.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/public.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/public.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/sendRequestAndGetResponse.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/sendRequestAndGetResponse.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/team-leader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/team-leader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/api/team-member.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/api/team-member.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/confirm.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/confirm.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/context.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/context.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/env.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/env.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/gtag.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/gtag.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/notifier.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/notifier.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/resizeImage.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/resizeImage.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/sharedStyles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/sharedStyles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/discussion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/discussion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/invitation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/invitation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/post.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/team.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/team.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/store/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/store/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/withAuth.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/withAuth.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/withLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/withLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/withStore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/lib/withStore.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/create-team.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/create-team.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/discussion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/discussion.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/invitation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/invitation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/settings/team-billing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/settings/team-billing.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/settings/team-members.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/settings/team-members.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/settings/team-profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/settings/team-profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pages/settings/your-profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app2/pages/settings/your-profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/server/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/server/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/server/routesWithSlug.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app2/server/routesWithSlug.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/login.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,11 +20,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_error.tsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/pages/_error.tsx">
+      <file leaf-file-name="app.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/server/app.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+            <state relative-caret-position="158">
+              <caret line="67" column="20" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app2/server/app.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="84" column="42" selection-end-line="87" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="env.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app2/lib/env.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="env.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lib/env.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -100,15 +76,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find />
-      <find>logo</find>
       <find>@action</find>
       <find>observer</find>
       <find>onEditClickCallback</find>
@@ -117,18 +91,28 @@
       <find>onSubmit</find>
       <find>ex</find>
       <find>asy</find>
-      <find>routesWithSlug</find>
       <find>app</find>
-      <find>next</find>
       <find>useFileSystemPublicRoutes</find>
       <find>#fff</find>
       <find>htmlescape</find>
       <find>JssProvider</find>
       <find>Document</find>
       <find>getContext</find>
-      <find>firstGridItem</find>
       <find>router</find>
       <find>glamor</find>
+      <find>statusCode</find>
+      <find>firstGridItem</find>
+      <find>next</find>
+      <find>routesWithSlug</find>
+      <find>express</find>
+      <find>api</find>
+      <find>dotenv</find>
+      <find>ROOT_URL</find>
+      <find>isomorphic-unfetch</find>
+      <find>fetch</find>
+      <find>redirectUrl</find>
+      <find>mobxReact</find>
+      <find>redirect</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -159,16 +143,19 @@
         <option value="$PROJECT_DIR$/LearningPlan/mobx/src/components/TodoList.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/app/package.json" />
         <option value="$PROJECT_DIR$/app/pages/index.ts" />
         <option value="$PROJECT_DIR$/app/next.config.js" />
         <option value="$PROJECT_DIR$/app/server/app.js" />
-        <option value="$PROJECT_DIR$/app/pages/login.tsx" />
         <option value="$PROJECT_DIR$/app/pages/index.tsx" />
         <option value="$PROJECT_DIR$/app/pages/_app" />
         <option value="$PROJECT_DIR$/app/pages/_document.tsx" />
         <option value="$PROJECT_DIR$/app/pages/_app.tsx" />
         <option value="$PROJECT_DIR$/app/pages/_error.tsx" />
+        <option value="$PROJECT_DIR$/app/pages/login.tsx" />
+        <option value="$PROJECT_DIR$/app/package.json" />
+        <option value="$PROJECT_DIR$/app/.dev" />
+        <option value="$PROJECT_DIR$/app/lib/env.ts" />
+        <option value="$PROJECT_DIR$/app/server/app.ts" />
       </list>
     </option>
   </component>
@@ -189,7 +176,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
+    <option name="x" value="438" />
     <option name="y" value="56" />
     <option name="width" value="1455" />
     <option name="height" value="937" />
@@ -216,7 +203,7 @@
               <item name="saas-app-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="saas-app-learning" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,6 +225,9 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/app/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/server" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LearningPlan/mobx/config" />
     </key>
@@ -312,15 +302,15 @@
       <workItem from="1539852798810" duration="1042000" />
       <workItem from="1539930116402" duration="607000" />
       <workItem from="1540097089316" duration="2123000" />
-      <workItem from="1540100441853" duration="4849000" />
+      <workItem from="1540100441853" duration="6999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13756000" />
+    <option name="totallyTimeSpent" value="15906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="411" y="23" width="1455" height="937" extended-state="0" />
+    <frame x="438" y="56" width="1455" height="937" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -334,11 +324,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297619" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3607143" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44166666" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27954707" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27954707" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -371,22 +361,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="3026" column="8" selection-start-line="3026" selection-start-column="8" selection-end-line="3026" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/index.css" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/App.css" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/node_modules/react-scripts/template/src/App.css" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/models/TodoModel.js" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/models/TodoListModel.js" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/components/Todo.jsx.js" />
-    <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/src/components/Todo.jsx" />
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/config/.babelrc" />
     <entry file="file://$PROJECT_DIR$/LearningPlan/mobx/config/webpack.config.dev.js" />
@@ -460,7 +434,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/server/google.ts">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/lib/withAuth.tsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -469,13 +449,6 @@
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -515,23 +488,6 @@
         <state relative-caret-position="-1012">
           <folding>
             <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/server/routesWithSlug.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/server/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -588,14 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/_app.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -626,27 +574,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/_error.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server/customRouting.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/login.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding>
-            <element signature="e#42#71#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/node_modules/@types/next/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2/lib/api/public.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/node_modules/@types/node/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="202" column="12" selection-start-line="202" selection-start-column="12" selection-end-line="202" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2/server/routesWithSlug.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/server/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.dev">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/env.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2/lib/env.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/_error.tsx">
+    <entry file="file://$PROJECT_DIR$/app2/server/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        <state relative-caret-position="1596">
+          <caret line="84" column="42" selection-end-line="87" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server/routesWithSlug.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
